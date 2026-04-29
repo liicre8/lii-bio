@@ -1,6 +1,6 @@
 ## Hi, I’m Wils!☘
 
-👩‍💻 Software Developer sharing about my journey and learnings in tech. <br/>
+👩‍💻 Data Engineering Associate | Web3 Engineer sharing about my journey and learnings in tech. <br/>
 👩‍🎓 Studied IT Computer Science at St. Vincents' College Incorporated, PH📍 <br/>
 🌱 I'm still currently learning various of tech stacks. <br/>
 
